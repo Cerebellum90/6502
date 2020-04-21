@@ -1,0 +1,1 @@
+.\vasm6502_oldstyle\vasm6502_oldstyle.exe -Fbin -dotdir -o buttons.bin buttons.s
